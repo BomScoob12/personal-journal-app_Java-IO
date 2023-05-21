@@ -2,7 +2,6 @@ import java.io.*;
 import java.time.LocalDateTime;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Scanner;
 
 public class JournalManager {
     public void writeEntry(JournalEntry entry){
